@@ -4,8 +4,7 @@
 * 디오하베스트 SOS 기능에 사용
 
 ## 스크린샷
-<img src="https://user-images.githubusercontent.com/37360089/81519147-318ff580-937b-11ea-9a9c-14e29e824f28.jpg" width="40%"/>
-<img src="https://user-images.githubusercontent.com/37360089/81519180-55533b80-937b-11ea-9d7d-b9b6d6f9c790.jpg" width="40%"/>
+<img src="https://user-images.githubusercontent.com/37360089/81519147-318ff580-937b-11ea-9a9c-14e29e824f28.jpg" width="40%"/> <img src="https://user-images.githubusercontent.com/37360089/81519180-55533b80-937b-11ea-9d7d-b9b6d6f9c790.jpg" width="40%"/>
 
 ## 참고 사이트
 * https://link2me.tistory.com/1625
